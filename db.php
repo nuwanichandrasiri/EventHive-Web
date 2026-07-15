@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$dbname = "eventhive";
-$username = "root";
-$password = "";
+$host = "sqlXXX.infinityfree.com";
+$dbname = "epiz_XXXXXXX_eventhive";
+$username = "epiz_XXXXXXX";
+$password = "your_generated_password";
 
 // Connect to MySQL database
 $conn = new mysqli($host, $username, $password, $dbname);
